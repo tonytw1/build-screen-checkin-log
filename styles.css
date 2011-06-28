@@ -1,0 +1,42 @@
+.revision {
+    list-style: none;
+
+   margin-left: 120px
+}
+
+.date {
+    float: right;
+    margin-top: 10px;
+    margin-right:20px;
+    color: #808080;
+}
+
+.heading {
+    font-size: 24pt;
+}
+
+.msg {
+    margin-top: 10px;
+    margin-left: 10px;
+    color: #404040;
+}
+
+.paths {
+    margin-top: 20px
+}
+
+.path {
+    color: #808080;
+    list-style: none;
+    font-size: 10pt;
+}
+
+.paths {
+    padding-bottom: 40px;
+}
+
+.author {
+float: left;
+width: 135px;
+padding-right: 20px
+}
